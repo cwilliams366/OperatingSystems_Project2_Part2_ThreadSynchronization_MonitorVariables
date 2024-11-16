@@ -1,5 +1,12 @@
+/*
+Name: Carleton Williams II
+Date: 11/14/2024
+Course: Operating Systems
+Professor: Dr. Burge
+Project 2 (Part 2): Thread Synchronization and Monitor Varibles
+Current File: BENSCHILLIBOWL.c
+*/
 #include "BENSCHILLIBOWL.h"
-
 #include <assert.h>
 #include <stdlib.h>
 #include <time.h>
